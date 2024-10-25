@@ -31,7 +31,9 @@ header > h1{
     font-family: sans-serif;
     position: relative;
 }
-
+.imagem{
+    width: 50px;
+}
 .badge{
     background: #3f00d3;
     color: white;
